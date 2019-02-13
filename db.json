@@ -8,9 +8,9 @@
     },
     {
       "id": "40",
-      "firstName": "Alex",
+      "firstName": "Maggie",
       "age": "40",
-      "companyId": "2"
+      "companyId": "1"
     },
     {
       "id": "41",
@@ -19,9 +19,10 @@
       "companyId": "2"
     },
     {
-      "firstName": "Dillon",
-      "age": 26,
-      "id": "bO5bEkn"
+      "firstName": "Steve",
+      "age": 10,
+      "id": "bO5bEkn",
+      "companyId": "2"
     }
   ],
   "companies": [
